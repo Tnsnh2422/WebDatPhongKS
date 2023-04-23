@@ -1,6 +1,8 @@
 # WebDatPhongKS
 Đề tài Chuyên đề cơ sở
 
+Gõ terminal để chạy: npm start
+
 Sinh:
     Cài đặt ReactJs:
         npx-create-app client
